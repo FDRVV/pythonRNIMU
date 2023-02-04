@@ -1,0 +1,6 @@
+name = input('enter your name: ')
+age = input('enter your age: ')
+location = input('enter your location: ')
+print(f'this is {name}')
+print(f'he/she is {age}')
+print(f'he/she lives in {location}')
